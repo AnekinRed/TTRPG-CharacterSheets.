@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "fb10fbe9d2d68625",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc14cea0f099b432",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0dff9c074465afb9",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Character Sheets/Untitled.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "cc7a83602ae03e09",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Character Sheets/Valds Lee Fedora.canvas",
+                "viewState": {
+                  "x": 978.8390718222095,
+                  "y": -105.29780423304507,
+                  "zoom": 0.06601096042630172
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Valds Lee Fedora"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "287dbeba6f8fb01e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec0e26ed443003a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4535f8db73ca4f5c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fa3fa9412ea78c5b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e44c7b90973af746",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b2bf50cf19ddcbed",
+    "type": "split",
+    "children": [
+      {
+        "id": "f159ba780a996101",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6027e29e81fe17de",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Character Sheets/WE4_Character_Sheets.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for WE4_Character_Sheets"
+            }
+          },
+          {
+            "id": "87492dc52ad70027",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Character Sheets/WE4_Character_Sheets.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from WE4_Character_Sheets"
+            }
+          },
+          {
+            "id": "5b550f9027c34c09",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1fb8071b3a3ff634",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ddf2821e7b1fb66d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Character Sheets/WE4_Character_Sheets.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of WE4_Character_Sheets"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "cc7a83602ae03e09",
+  "lastOpenFiles": [
+    "Pasted image 20260110130319.png",
+    "Character Sheets/WE4_Character_Sheets.pdf",
+    "Character Sheets/Valds Lee Fedora.canvas",
+    "Character Sheets/WE4_Character_Sheets.pdf-autosave.kra",
+    "Untitled.base",
+    "Untitled.md",
+    "Character Sheets/Untitled.base",
+    "Characters/Character2899.md",
+    "Characters/Character1817.md",
+    "Characters",
+    "Character Sheets/Valds Lee Fedora.md",
+    "Welcome.md",
+    "Untitled 1.base",
+    "Character Sheets"
+  ]
+}
