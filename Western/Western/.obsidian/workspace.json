@@ -36,9 +36,26 @@
               "icon": "lucide-layout-dashboard",
               "title": "Valds Lee Fedora"
             }
+          },
+          {
+            "id": "c4e28475ced227ed",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Character Sheets/Valds Lee Fedora.canvas",
+                "viewState": {
+                  "x": 1899.156978571827,
+                  "y": 1013.5560426856521,
+                  "zoom": -1.0537792591489565
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Valds Lee Fedora"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "b2bf50cf19ddcbed",
@@ -200,10 +217,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "cc7a83602ae03e09",
+  "active": "c4e28475ced227ed",
   "lastOpenFiles": [
-    "Pasted image 20260110130319.png",
+    "Pasted image 20260123192607.png",
     "Character Sheets/WE4_Character_Sheets.pdf",
+    "Pasted image 20260110130319.png",
     "Character Sheets/Valds Lee Fedora.canvas",
     "Character Sheets/WE4_Character_Sheets.pdf-autosave.kra",
     "Untitled.base",
