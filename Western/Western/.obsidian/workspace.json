@@ -53,6 +53,18 @@
               "icon": "lucide-layout-dashboard",
               "title": "Valds Lee Fedora"
             }
+          },
+          {
+            "id": "a0bddc37e34c726d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
         ],
         "currentTab": 2
@@ -219,10 +231,11 @@
   },
   "active": "c4e28475ced227ed",
   "lastOpenFiles": [
-    "Pasted image 20260123192607.png",
+    "Pasted image 20260125000819.png",
     "Character Sheets/WE4_Character_Sheets.pdf",
-    "Pasted image 20260110130319.png",
     "Character Sheets/Valds Lee Fedora.canvas",
+    "Pasted image 20260123192607.png",
+    "Pasted image 20260110130319.png",
     "Character Sheets/WE4_Character_Sheets.pdf-autosave.kra",
     "Untitled.base",
     "Untitled.md",
