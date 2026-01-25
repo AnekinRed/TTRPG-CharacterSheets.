@@ -24,30 +24,25 @@
             "id": "cc7a83602ae03e09",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "pdf",
               "state": {
-                "file": "Character Sheets/Valds Lee Fedora.canvas",
-                "viewState": {
-                  "x": 978.8390718222095,
-                  "y": -105.29780423304507,
-                  "zoom": 0.06601096042630172
-                }
+                "file": "Character Sheets/WE4_Character_Sheets.pdf"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Valds Lee Fedora"
+              "icon": "lucide-file-text",
+              "title": "WE4_Character_Sheets"
             }
           },
           {
-            "id": "c4e28475ced227ed",
+            "id": "3d62814f4fd9095e",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Character Sheets/Valds Lee Fedora.canvas",
                 "viewState": {
-                  "x": 240.76427465584297,
-                  "y": -80.57589676014547,
-                  "zoom": -1.0537792591489565
+                  "x": 1228.428015976173,
+                  "y": 487.2068498986295,
+                  "zoom": -0.9248809649512311
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -229,17 +224,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "c4e28475ced227ed",
+  "active": "3d62814f4fd9095e",
   "lastOpenFiles": [
-    "Pasted image 20260125000819.png",
     "Character Sheets/WE4_Character_Sheets.pdf",
     "Character Sheets/Valds Lee Fedora.canvas",
+    "Pasted image 20260125152601.png",
+    "Pasted image 20260125152518.png",
+    "Pasted image 20260125152438.png",
+    "Character Sheets/Untitled.base",
+    "Untitled.base",
+    "Pasted image 20260125000819.png",
     "Pasted image 20260123192607.png",
     "Pasted image 20260110130319.png",
     "Character Sheets/WE4_Character_Sheets.pdf-autosave.kra",
-    "Untitled.base",
     "Untitled.md",
-    "Character Sheets/Untitled.base",
     "Characters/Character2899.md",
     "Characters/Character1817.md",
     "Characters",
