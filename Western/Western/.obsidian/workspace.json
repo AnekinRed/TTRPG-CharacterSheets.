@@ -11,59 +11,34 @@
             "id": "0dff9c074465afb9",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "canvas",
               "state": {
-                "file": "Character Sheets/Untitled.base",
-                "viewName": "Table"
+                "file": "Character Sheets/Takeru Inazuma.canvas",
+                "viewState": {
+                  "x": 321.95888902999104,
+                  "y": 135.85192268469527,
+                  "zoom": -0.7124234099034149
+                }
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-layout-dashboard",
+              "title": "Takeru Inazuma"
             }
           },
           {
-            "id": "cc7a83602ae03e09",
+            "id": "00486c4bff0a8fef",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Character Sheets/Valds Lee Fedora.canvas",
                 "viewState": {
-                  "x": 367.1545174208242,
-                  "y": 212.44255141997039,
-                  "zoom": -0.812863128044507
+                  "x": 3774.0050530480285,
+                  "y": 887.2920365038591,
+                  "zoom": -0.8237958055651515
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Valds Lee Fedora"
-            }
-          },
-          {
-            "id": "3d62814f4fd9095e",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Character Sheets/Valds Lee Fedora.canvas",
-                "viewState": {
-                  "x": 1570,
-                  "y": 910,
-                  "zoom": -2.4128631280445068
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Valds Lee Fedora"
-            }
-          },
-          {
-            "id": "a0bddc37e34c726d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
             }
           }
         ],
@@ -229,14 +204,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "cc7a83602ae03e09",
+  "active": "00486c4bff0a8fef",
   "lastOpenFiles": [
-    "Character Sheets/WE4_Character_Sheets.pdf",
     "Character Sheets/Valds Lee Fedora.canvas",
+    "Character Sheets/Untitled.base",
+    "Character Sheets/Takeru Inazuma.canvas",
+    "Character Sheets/WE4_Character_Sheets.pdf",
     "Pasted image 20260125152601.png",
     "Pasted image 20260125152518.png",
     "Pasted image 20260125152438.png",
-    "Character Sheets/Untitled.base",
     "Untitled.base",
     "Pasted image 20260125000819.png",
     "Pasted image 20260123192607.png",
